@@ -13,7 +13,7 @@ export default function Landing() {
         </ul>
       </header>
       <section className='flex flex-col gap-10 items-center justify-center text-center h-full'>
-        <img src="/src/assets/me.jpg" className='absolute size-50 object-cover object-bottom mb-25 rounded-tl-[70px] rounded-tr-[130px] rounded-br-2xl rounded-bl-[120px]' alt="Albar Abdul Malik at somewhere" />
+        <img src="https://images.unsplash.com/photo-1773332598289-ed0444ad1d6f?q=80&w=776&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" className='absolute size-50 object-cover object-bottom mb-25 rounded-tl-[70px] rounded-tr-[130px] rounded-br-2xl rounded-bl-[120px]' alt="Albar Abdul Malik at somewhere" />
 
         <h1 className='px-10 flex flex-col w-120 items-center justify-center text-[20vh]/[90%] tracking-tighter font-bold *:transition-all *:duration-190'>
           <span className="bg-transparent group w-1/3 flex items-center justify-center gap-7 hover:font-bold *:transition-all *:duration-50">
