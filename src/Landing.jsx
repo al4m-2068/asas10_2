@@ -13,7 +13,7 @@ export default function Landing() {
         </ul>
       </header>
       <section className='flex flex-col gap-10 items-center justify-center text-center h-full'>
-        <img src="/src/assets/me.jpg" className='absolute size-50 object-cover object-bottom mb-25 rounded-tl-[70px] rounded-tr-[130px] rounded-br-2xl rounded-bl-[120px]' alt="" />
+        <img src="src/assets/me.jpg" className='absolute size-50 object-cover object-bottom mb-25 rounded-tl-[70px] rounded-tr-[130px] rounded-br-2xl rounded-bl-[120px]' alt="" />
 
         <h1 className='px-10 flex flex-col w-120 items-center justify-center text-[20vh]/[90%] tracking-tighter font-bold *:transition-all *:duration-190'>
           <span className="bg-transparent group w-1/3 flex items-center justify-center gap-7 hover:font-bold *:transition-all *:duration-50">
